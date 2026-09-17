@@ -1,0 +1,45 @@
+*{
+  background-color: lab(0% 0 0)
+}
+.ملاحظه{
+  color: red;
+}
+.نص-التنبيه{
+  color: hwb(0 100% 0%);
+}
+.العنوان-الرئيسي{
+  color: hwb(174 0% 0% / 0.5686274509803921);
+}
+.التعريف{
+  color:white;
+}
+.روابط {
+  color: white;
+}
+.رابط-الجروب {
+  color: white;
+}
+.نص-الجروب {
+  color:white;
+}
+.رابط-تواصل {
+  color:white;
+}
+.نص-محمد-لطفي {
+  color:white;
+}
+.نص-محمد-مجدي {
+  color: white;
+}
+.نص-ياسر-نشأت {
+  color: white;
+}
+.نص-يوسف-عاطف {
+  color: white;
+}
+.نص-كريم-طارق {
+  color:white;
+}
+.اعتذار {
+  color:white;
+}
